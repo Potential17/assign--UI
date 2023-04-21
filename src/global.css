@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Basier+Circle:wght@400;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-basier-circle: "Basier Circle";
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-13xl: 32px;
+  --font-size-sm: 14px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-gray-100: rgba(255, 255, 255, 0);
+  --color-gray-200: rgba(255, 255, 255, 0.08);
+  --color-white: #fff;
+
+  /* Gaps */
+  --gap-base: 16px;
+
+  /* Paddings */
+  --padding-base: 16px;
+
+  /* border radiuses */
+  --br-5xs: 8px;
+  --br-37xl: 56px;
+  --br-base: 16px;
+}
